@@ -1,2 +1,3 @@
 I am a git test file.
 branch test
+merging branch is quick and simple.
