@@ -1,4 +1,6 @@
 I am a git test file.
 branch test
 
-Merging a branch is quick & simple.
+merging branch is quick and simple.
+
+
